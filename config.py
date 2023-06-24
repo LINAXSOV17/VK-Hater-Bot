@@ -4,9 +4,9 @@ bot_id = 0
 u_token = ''
 
 # для группы
-g_admins = []
-group_id = 0
-g_token = ''
+g_admins = 653310913
+group_id = https://vk.me/join/a_aePYYwKUyzVbm2XESw7ltVu3aeJfy4J74=
+g_token = 'https://oauth.vk.com/blank.html#access_token=vk1.a.crjBluf3oQ1Vy_w3Drsl0CvRQWW1JrPgjxGqBI60KMoLfiaGHdmrxFaCNJa-fbNqSV42ik8I6PJ2m_t8hEVLYKUdzOAKXwLNMozVpuOUKpZ1i8XejE1waY1hB1_QKBFnGnK972xc9GAw7UhIxU39BLYaz_fRmB7lZYDFQHJXLfCxq0NUjNbD_W6lNferVFseXMspsa16V51ObUxCynTaTA&expires_in=0&user_id=653310913'
 
 # комнады
 hate = ['+хейт', '+hate']
